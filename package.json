@@ -1,5 +1,5 @@
 {
-  "name": "@kafkajs/zstd-node-16",
+  "name": "kafkajs-zstd-node-16",
   "version": "0.1.1",
   "description": "A KafkaJS codec for ZStandard compression",
   "main": "src/index.js",
