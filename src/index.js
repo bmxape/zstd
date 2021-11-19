@@ -1,4 +1,4 @@
-const zstd = require("cppzst");
+const zstd = require("cppzst-node-16-fork");
 const { promisify } = require("util");
 
 const compress = promisify(zstd.compress);
